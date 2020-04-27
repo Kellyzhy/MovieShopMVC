@@ -1,0 +1,9 @@
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.csprojAssemblyReference.cache
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.pdb

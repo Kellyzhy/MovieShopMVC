@@ -1,0 +1,19 @@
+﻿@model List<MovieShop.Entities.Cast>
+
+@{
+    ViewBag.Title = "CastsByMovie";
+}
+
+<div class="rounded">
+    <div class="container-fluid bg-light">
+        <div class="row">
+            @foreach (var cast in Model)
+            {
+                <div class="col-6 col-lg-3 col-sm-4 col-xl-2">
+                    @Html.Partial("CastList", cast)
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

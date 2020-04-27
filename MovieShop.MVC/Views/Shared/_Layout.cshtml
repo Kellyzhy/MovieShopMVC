@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @*<title>@ViewBag.Title - My ASP.NET Application</title>*@
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body>
+    <nav class="fixed-top navbar navbar-expand-lg navbar-dark bg-dark">
+        @Html.ActionLink("Movie Shop", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" , id = "movietest" }) @*HTML attribute -- CSS class*@
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        MOVIES
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        @Html.ActionLink("Top Movies", "GetMoviesByGenre", "Movies", "", new { @class = "dropdown-item" })
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        GENRES
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        @{ Html.RenderAction("GetGenreName", "Genres"); }
+
+                    </div>
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Login", "User", "SignIn", null, new { @class = "btn btn-outline-primary rounded-pill" })
+
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("SignUp", "User", "SignUp", null, new { @class = "btn btn-primary rounded-pill" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("About", "About", "Home", null, new { @class = "nav-link" })
+
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "nav-link" })
+
+                </li>
+                @*<form class="form-inline">
+            <button class="btn btn-sm btn-outline-secondary" type="button" onclick="">LOGIN</button>
+            <button class="btn btn-outline-success" type="button" onclick="">SIGNUP</button>
+        </form>*@
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+
+
+    <div class="container body-content">
+        @RenderBody() @*place holder that individual view will go and show*@
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

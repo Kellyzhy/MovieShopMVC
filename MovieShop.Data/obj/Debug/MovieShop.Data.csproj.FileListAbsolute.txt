@@ -1,0 +1,66 @@
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Data.dll.config
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Data.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Data.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.csprojAssemblyReference.cache
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.csproj.CopyComplete
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.initialmigration.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.csproj.GenerateResource.cache
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.updatedGenreTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.initialMovieTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.updatedMovieTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MovieGenreConjunctionTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.TrailerTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.updatedTrailerTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.UserTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.RoleTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.UserRoleConjunctionTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.CrewTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.ReviewTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MovieCrewTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.CastTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MovieCastTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.FavoriteTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.PurchaseTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MocieTable.resources
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.UpdatedCastTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Data.dll.config
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Data.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Data.pdb
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.csprojAssemblyReference.cache
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.initialmigration.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.updatedGenreTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.initialMovieTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.updatedMovieTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MovieGenreConjunctionTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.TrailerTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.updatedTrailerTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.UserTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.RoleTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.UserRoleConjunctionTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.CrewTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.ReviewTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MovieCrewTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.CastTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MovieCastTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.FavoriteTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.PurchaseTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.MocieTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.Migrations.UpdatedCastTable.resources
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.csproj.GenerateResource.cache
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.csproj.CopyComplete
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Data\obj\Debug\MovieShop.Data.pdb

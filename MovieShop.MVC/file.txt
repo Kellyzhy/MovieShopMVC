@@ -1,0 +1,16 @@
+2020-02-27 15:43:18.1516|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetailsmovieId=24
+2020-03-01 14:13:42.6159|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetails
+2020-03-01 14:14:46.5976|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetailsmovieId=5
+2020-03-01 14:19:31.5840|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetails
+2020-03-01 14:20:27.3727|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetails
+2020-03-01 14:21:23.9673|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetails
+2020-03-01 14:27:15.7045|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/GetMoviesByGenreLength=0
+2020-03-01 20:20:41.1054|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetails
+2020-03-01 20:26:08.6959|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetailsmovieId=24
+2020-03-01 20:27:14.0303|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetails
+2020-03-01 20:27:20.3491|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetailsmovieId=24
+2020-03-01 21:52:36.4444|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetails
+2020-03-01 21:52:41.9687|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetailsmovieId=29
+2020-03-01 21:54:47.3620|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/Movies/MovieDetailsmovieId=29
+2020-04-25 23:38:18.2682|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/
+2020-04-25 23:39:49.6964|INFO|MovieShop.MVC.Filters.MovieShopExceptionFilter|Something Wrong Here ===============>/

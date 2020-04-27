@@ -1,0 +1,29 @@
+﻿@model List<MovieShop.Entities.Movie>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Top Revenue Movies</h2>
+<table class="table table-bordered"> 
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Revenue</th>
+            <th>Release Date</th>
+        </tr>
+    </thead>       
+    <tbody>
+        @foreach (var movie in Model)
+        {
+        <tr>
+            <td>@movie.Id</td>
+            <td>@movie.Title</td>
+            <td>@movie.Revenue</td>
+            <td>@movie.ReleaseDate</td>
+        </tr>
+           
+        }
+    </tbody>
+</table>
+

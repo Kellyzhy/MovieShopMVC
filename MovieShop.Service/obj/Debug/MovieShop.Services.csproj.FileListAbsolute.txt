@@ -1,0 +1,26 @@
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Service.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Service.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Service.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Service.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Data.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\EntityFramework.dll
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Data.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Data.dll.config
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\bin\Debug\EntityFramework.xml
+C:\Users\Kelly\source\repos\Sample Code\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Services.csproj.CopyComplete
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Service.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Service.pdb
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Data.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Entities.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\EntityFramework.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Data.pdb
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Data.dll.config
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\bin\Debug\EntityFramework.xml
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Services.csproj.CopyComplete
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Service.dll
+C:\Users\Kelly\source\repos\MovieShopMVC-Kelly\MovieShop.MVC\MovieShop.Service\obj\Debug\MovieShop.Service.pdb
